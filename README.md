@@ -20,5 +20,7 @@ If you want an example check [this](https://github.com/Kryze/bulma-section/tree/
 
 To contribute, choose from the issues or create a pull request with a section of design made with Bulma CSS Framework ! :)
 
+Of course you can add custom css too and some animations with JS if needed
+
 For others issues check [here](https://github.com/Kryze/bulma-section/issues)
 
