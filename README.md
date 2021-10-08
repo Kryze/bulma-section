@@ -13,7 +13,7 @@
 
 Bulma-Section is a collection of section of HTML/CSS design with the Bulma Framework
 
-If you want an example check :
+If you want an example check [this](https://github.com/Kryze/bulma-section/tree/main/section-example) 
 
 
 # Contributing
