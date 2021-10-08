@@ -1,3 +1,5 @@
+# Bulma-Section
+
 # Hacktoberfest
 
 ----------
@@ -9,11 +11,14 @@
 
 # What is Bulma-Section ?
 
+Bulma-Section is a collection of section of HTML/CSS design with the Bulma Framework
+
+If you want an example check :
 
 
 # Contributing
 
-To contribute, fill the json file towns.json in english with the requested informations of a town you know ! :)
+To contribute, choose from the issues or create a pull request with a section of design made with Bulma CSS Framework ! :)
 
-For others issues check [here](https://github.com/Kryze/RandomTown/issues)
+For others issues check [here](https://github.com/Kryze/bulma-section/issues)
 
